@@ -1,0 +1,33 @@
+{
+	"name": [
+		"Stewie",
+		"Carrie",
+		"Bob",
+		"Greg",
+		"Duncan",
+		"Mitch",
+		"Sally",
+		"Sandra",
+		"Alexia"
+	],
+	"occupation": [
+		"banker",
+		"court jester",
+		"medic",
+		"candlestick maker",
+		"barber",
+		"potion maker",
+		"haberdasher",
+		"pirate",
+		"butler"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #symbol7# #symbol8# this to happen. But they never wanted this job, they wanted to be a #occupation# #occupation#. Just like their friend #name#. That way, their life could be complete."
+	],
+	"symbol7": [
+		"always"
+	],
+	"symbol8": [
+		"expecting"
+	]
+}
